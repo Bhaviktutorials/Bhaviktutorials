@@ -1,5 +1,5 @@
 ## ⚡ WELCOME TO Tutorials World
-<p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/64035221/92239458-aeba1a00-eed8-11ea-96ac-8ca1e54bbdad.jpg" alt="Bt">
+<p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/64035221/92300150-3013ba00-ef76-11ea-9dd7-e886292c6d6c.jpg" alt="Bt">
 </p>
   
 <p align="center"><a href="https://github.com/Bhaviktutorials"><img title="HTR-TECH" src="https://github-readme-stats.vercel.app/api?username=Bhaviktutorials&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
