@@ -23,6 +23,7 @@
 <a href="https://github.com/Bhaviktutorials/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=shark&theme=radical"></a>
 <a href="https://github.com/Bhaviktutorials/T-Remix"><img title="T-Remix" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=T-Remix&theme=highcontrast"></a>
 <a href="https://github.com/Bhaviktutorials/Termux-Keys"><img title="Termux-Keys" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=Termux-Keys&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Bhaviktutorials/Termux-Megapackage"><img title="Termux-Megapackage" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=Termux-Megapackage&theme=highcontrast"></a>
 </p>
 
 <p align="center">
