@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Bhaviktutorials"><img title="YouTube" src="https://img.shields.io/badge/Github-Bhaviktutorials-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/Bhaviktutorials"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Bhaviktutorials-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/Bhaviktutorials"><img title="GitHub" src="https://img.shields.io/badge/Github-Bhaviktutorials-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Bhaviktutorials-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
