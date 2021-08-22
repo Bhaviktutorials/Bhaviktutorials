@@ -19,8 +19,12 @@
 <a href="https://chat.whatsapp.com/GIhexhNzwFaEKLsnnIPESX"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.instagram.com/bhavik_tutorials/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhaviktutorials&theme=onestar&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center"> 
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Bhaviktutorials&theme=onestar&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</p>
+  
 <p align="center">
 <a href="https://github.com/Bhaviktutorials/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=shark&theme=radical"></a>
 <a href="https://github.com/Bhaviktutorials/T-Remix"><img title="T-Remix" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaviktutorials&repo=T-Remix&theme=highcontrast"></a>
